@@ -86,7 +86,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tiles.rc3.world\/structures\/rc3-mullana-floor-wall.png",
+         "image":"rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -99,7 +99,7 @@
         {
          "columns":2,
          "firstgid":257,
-         "image":"tiles.rc3.world\/structures\/worldExit.png",
+         "image":"worldExit.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -112,7 +112,7 @@
         {
          "columns":16,
          "firstgid":261,
-         "image":"tiles.rc3.world\/inventory\/dk_space_station.png",
+         "image":"dk_space_station.png",
          "imageheight":160,
          "imagewidth":512,
          "margin":0,
